@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"  height="30px">, I'm Rishabh Patel</h1>
-<h3 align="center">B.Tech Computer Engineering, Student at Mdhuben Bhanubhai Patel Institute of Technology, India</h3>
+<h3 align="center">B.Tech Computer Engineering, Student at Madhuben & Bhanubhai Patel Institute of Technology, India</h3>
 
 <img src="business_card/business_card.jpg" width="1050" height="550" />
 
