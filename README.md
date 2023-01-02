@@ -1,7 +1,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"  height="30px">, I'm Rishabh Patel</h1>
 <h3 align="center">B.Tech Computer Engineering, Student at Mdhuben Bhanubhai Patel Institute of Technology, India</h3>
 
-![Rishabh Patel Github Cover Page]()
+<img src="" width="1050" height="550" />
 
 ## Technologies💻
 
