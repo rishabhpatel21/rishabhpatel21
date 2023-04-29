@@ -10,5 +10,6 @@
 
 ## Socials🤝🏻
 
-<a href="https://www.linkedin.com/in/rishabh-patel-6a1676246/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
- <a href="https://instagram.com/rishabh.patel.21?igshid=Yzg5MTU1MDY="><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/rishabh-patel-6a1676246"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://instagram.com/whoo.rishabh?igshid=Yzg5MTU1MDY="><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="https://twitter.com/rishabhpatel_21?t=Gm0UPuGIaFl4BWmsjegMMg&s=08"><img src="https://img.shields.io/badge/twitter-blue?style=for-the-badge&logo=twitter&logoColor=white"/></a>
