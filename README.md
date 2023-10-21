@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"  height="5px">, I'm Rishabh R Patel</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"  height="20px">, I'm Rishabh R Patel</h1>
 <h3 align="center">B.E. Computer Engineer, Student at Madhuben & Bhanubhai Patel Institute of Technology, India</h3>
 
 
