@@ -3,8 +3,8 @@
 
 ###
 
-  <image width="150" height="150" src="https://imgflip.com/gif/9imk3" />
-  ![hippo](https://imgflip.com/gif/9imk3)
+ <div style="width:150px;max-width:100%;"><div style="height:0;padding-bottom:100%;position:relative;"><iframe width="150" height="150" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameBorder="0" src="https://imgflip.com/embed/9imk3m"></iframe></div><p><a href="https://imgflip.com/gif/9imk3m">via Imgflip</a></p></div>
+ 
 ###
 <h3 align="justify"><strong>Software Engineer</strong> with expertise in <strong>Full-stack development</strong>. <strong>Salesforce AI Certified</strong> and experienced in developing scalable web applications and SAAS. Proficient in technologies such as React.js, Node.js,Microsoft Azure, and Python. Passionate about contributing to cloud platforms and optimizing performance.</h3>
 
