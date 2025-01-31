@@ -3,7 +3,10 @@
 
 ###
 
-<img align="right" height="150" src=""  />
+<svg height="30" width="200" xmlns="http://www.w3.org/2000/svg">
+  <a href="https://imgflip.com/gif/9imk3m" target="_blank">
+  </a>
+</svg>
 
 ###
 <h3 align="justify"><strong>Software Engineer</strong> with expertise in <strong>Full-stack development</strong>. <strong>Salesforce AI Certified</strong> and experienced in developing scalable web applications and SAAS. Proficient in technologies such as React.js, Node.js,Microsoft Azure, and Python. Passionate about contributing to cloud platforms and optimizing performance.</h3>
