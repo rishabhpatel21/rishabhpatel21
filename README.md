@@ -3,9 +3,9 @@
 
 ###
 
-<svg height="30" width="200" xmlns="http://www.w3.org/2000/svg">
-  <a href="https://imgflip.com/gif/9imk3m" target="_blank">
-  </a>
+<svg height="200" width="300" xmlns="http://www.w3.org/2000/svg">
+  <image width="300" height="200" href="https://imgflip.com/gif/9imk3" />
+  Sorry, your browser does not support inline SVG.  
 </svg>
 
 ###
