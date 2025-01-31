@@ -3,11 +3,8 @@
 
 ###
 
-<svg height="200" width="300" xmlns="http://www.w3.org/2000/svg">
   <image width="300" height="200" href="https://imgflip.com/gif/9imk3" />
-  Sorry, your browser does not support inline SVG.  
-</svg>
-
+  
 ###
 <h3 align="justify"><strong>Software Engineer</strong> with expertise in <strong>Full-stack development</strong>. <strong>Salesforce AI Certified</strong> and experienced in developing scalable web applications and SAAS. Proficient in technologies such as React.js, Node.js,Microsoft Azure, and Python. Passionate about contributing to cloud platforms and optimizing performance.</h3>
 
