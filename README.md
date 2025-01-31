@@ -35,7 +35,6 @@
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=rishabhpatel21&theme=highcontrast&hide_border=false)<br/>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rishabhpatel21&" alt="rishabhpatel21" /></p>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=rishabhpatel21&theme=default_repocard&no-frame=false&no-bg=false&margin-w=4)
