@@ -1,6 +1,13 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"  height="25px">, I'm Rishabh Patel</h1>
 <h5 align="center">B.E. Computer Engineer, Student at Madhuben & Bhanubhai Patel Institute of Technology, India</h5>
+###
+
+<img align="right" height="150" src=""  />
+
+###
 <h3 align="justify"><strong>Software Engineer</strong> with expertise in <strong>Full-stack development</strong>. <strong>Salesforce AI Certified</strong> and experienced in developing scalable web applications and SAAS. Proficient in technologies such as React.js, Node.js,Microsoft Azure, and Python. Passionate about contributing to cloud platforms and optimizing performance.</h3>
+
+###
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishabhpatel21&label=Profile%20views&color=0e75b6&style=flat" alt="rishabhpatel21" /> </p>
 
@@ -16,11 +23,7 @@
 
 - 📄 Know about my experiences [[Resume](https://drive.google.com/file/d/108liehEoTZOvcfMJdaBbCEF-ABShd5Eu/view?usp=drive_link)]
 
-###
 
-<img align="right" height="150" src=""  />
-
-###
 
 # Tech Stack:
 <div align="left">
@@ -85,7 +88,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
 </div>
 
-###
 
 # Socials:
 <div align="left">
