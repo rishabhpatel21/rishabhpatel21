@@ -4,8 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishabhpatel21&label=Profile%20views&color=0e75b6&style=flat" alt="rishabhpatel21" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rishabhpatel21" alt="rishabhpatel21" /></a> </p>
-
 - 🔭 I’m currently working on [Imagenity.](https://imagenity.webxela.com/)
 
 - 🌱 I’m currently learning **Machine Learning, AI Agents.**
@@ -29,11 +27,15 @@
 <a href="https://instagram.com/rishabh.rpatel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rishabh.rpatel" height="30" width="40" /></a>
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rishabhpatel21&show_icons=true&locale=en" alt="rishabhpatel21" /></p>
+
 
 
 ## 📊 GitHub Stats:
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rishabhpatel21&show_icons=true&locale=en" alt="rishabhpatel21" /></p>
+
 ![](https://github-readme-streak-stats.herokuapp.com/?user=rishabhpatel21&theme=highcontrast&hide_border=false)<br/>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rishabhpatel21&" alt="rishabhpatel21" /></p>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=rishabhpatel21&theme=default_repocard&no-frame=false&no-bg=false&margin-w=4)
@@ -43,5 +45,3 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=rishabhpatel21&icon=1&color=1)](https://visitcount.itsvg.in)
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rishabhpatel21&" alt="rishabhpatel21" /></p>
