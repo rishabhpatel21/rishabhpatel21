@@ -1,6 +1,6 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"  height="25px">, I'm Rishabh Patel</h1>
 <h5 align="center">B.E. Computer Engineer, Student at Madhuben & Bhanubhai Patel Institute of Technology, India</h5>
-<h3 align="justify">Software Engineer with expertise in full-stack development. **Salesforce AI Certified** and experienced in developing scalable web applications and SAAS. Proficient in technologies such as React.js, Node.js,Microsoft Azure, and Python. Passionate about contributing to cloud platforms and optimizing performance.</h3>
+<h3 align="justify"><strong>Software Engineer</strong> with expertise in <strong>Full-stack development</strong>. <strong>Salesforce AI Certified</strong> and experienced in developing scalable web applications and SAAS. Proficient in technologies such as React.js, Node.js,Microsoft Azure, and Python. Passionate about contributing to cloud platforms and optimizing performance.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishabhpatel21&label=Profile%20views&color=0e75b6&style=flat" alt="rishabhpatel21" /> </p>
 
@@ -27,7 +27,7 @@
 <a href="https://instagram.com/rishabh.rpatel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rishabh.rpatel" height="30" width="40" /></a>
 </p>
 
-
+<div class="tenor-gif-embed" data-postid="25521759" data-share-method="host" data-aspect-ratio="1.77778" data-width="100%"><a href="https://tenor.com/view/solo-leveling-elizabeth-gintama-gif-25521759">Solo Leveling Elizabeth Gintama GIF</a>from <a href="https://tenor.com/search/solo+leveling-gifs">Solo Leveling GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 
 ## 📊 GitHub Stats:
