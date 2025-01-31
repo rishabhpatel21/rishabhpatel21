@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **rishabhpatel1100@gmail.com**
 
-- 📄 Know about my experiences [[Resume](https://drive.google.com/file/d/108liehEoTZOvcfMJdaBbCEF-ABShd5Eu/view?usp=sharing](https://drive.google.com/file/d/108liehEoTZOvcfMJdaBbCEF-ABShd5Eu/view?usp=sharing))]
+- 📄 Know about my experiences [[Resume](https://drive.google.com/file/d/108liehEoTZOvcfMJdaBbCEF-ABShd5Eu/view?usp=drive_link)]
 
 ## 💻 Tech Stack:
 
