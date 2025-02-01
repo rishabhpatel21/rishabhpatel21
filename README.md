@@ -1,8 +1,6 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"  height="25px">, I'm Rishabh Patel</h1>
-<h6 align="center">B.E. Computer Engineer, Student at Madhuben & Bhanubhai Patel Institute of Technology, India</h6>
 
-
-<h4 align="justify"><strong>Software Engineer</strong> with expertise in <strong>Full-stack development</strong>. <strong>Salesforce AI Certified</strong> and experienced in developing scalable web applications and SAAS. Proficient in technologies such as React.js, Node.js,Microsoft Azure, and Python. Passionate about contributing to cloud platforms and optimizing performance.</h4>
+<h5 align="justify"><strong>Software Engineer</strong> with expertise in <strong>Full-stack development</strong>. <strong>Salesforce AI Certified</strong> and experienced in developing scalable web applications and SAAS. Proficient in technologies such as React.js, Node.js,Microsoft Azure, and Python. Passionate about contributing to cloud platforms and optimizing performance.</h5>
 
 ###
 
