@@ -92,11 +92,6 @@
   <a href="https://instagram.com/rishabh.rpatel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rishabh.rpatel" height="30" width="40" /></a>
 </div>
 
-###
-
-<div class="tenor-gif-embed" data-postid="25521759" data-share-method="host" data-aspect-ratio="1.77778" data-width="100%"><a href="https://tenor.com/view/solo-leveling-elizabeth-gintama-gif-25521759">Solo Leveling Elizabeth Gintama GIF</a>from <a href="https://tenor.com/search/solo+leveling-gifs">Solo Leveling GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
-
-
 ## 📊 GitHub Stats:
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rishabhpatel21&show_icons=true&locale=en" alt="rishabhpatel21" /></p>
 
