@@ -2,6 +2,8 @@
 
 <p align="justify"><strong>Software Engineer</strong> with expertise in <strong>Full-stack development</strong>. <strong>Salesforce AI Certified</strong> and experienced in developing scalable web applications and SAAS. Proficient in technologies such as React.js, Node.js,Microsoft Azure, and Python. Passionate about contributing to cloud platforms and optimizing performance.</p>
 
+<img src="https://github.com/rishabhpatel21/projects-images/blob/main/hacker-room-rainy-night.mp4" alt="pixel-art" />
+
 ###
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishabhpatel21&label=Profile%20views&color=0e75b6&style=flat" alt="rishabhpatel21" /> </p>
