@@ -2,7 +2,7 @@
 
 <p align="justify"><strong>Software Engineer</strong> with expertise in <strong>Full-stack development</strong>. <strong>Salesforce AI Certified</strong> and experienced in developing scalable web applications and SAAS. Proficient in technologies such as React.js, Node.js,Microsoft Azure, and Python. Passionate about contributing to cloud platforms and optimizing performance.</p>
 
-<img src="https://raw.githubusercontent.com/rishabhpatel/images/blob/main/gif/hacker-room.gif" alt="pixel-art" />
+<img align="center" alt="Coding" width="1000" src="https://raw.githubusercontent.com/rishabhpatel/images/blob/main/gif/hacker-room.gif">
 
 ###
 
